@@ -7,9 +7,9 @@ The URL list is hard coded as provided.
 
 After starting the development server, access these links to test the API:
 
-http://localhost:3000/reachable-url
-http://localhost:3000/reachable-url?priority=3
-http://localhost:3000/reachable-url?priority=4
+- http://localhost:3000/reachable-url
+- http://localhost:3000/reachable-url?priority=3
+- http://localhost:3000/reachable-url?priority=4
 
 ## Install dependencies
 ```
